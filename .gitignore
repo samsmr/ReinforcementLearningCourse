@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore large compressed files except model zip
+*.7z
+
+# Ignore local conda env
+rl_env/
+
